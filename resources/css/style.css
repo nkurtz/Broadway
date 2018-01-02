@@ -15,7 +15,12 @@ h3{
 }
 
 .nav h1 {
-  font-size: 70px; 
+  font-size: 70px;
+}
+
+.btn-nav {
+  font-size: 18px;
+  color: white;
 }
 
 h2 {
