@@ -3,17 +3,19 @@ body {
   text-align: center;
 }
 
-h1 {
-  font-size: 70px;
+h1,
+h2,
+h3{
   font-weight: bold;
-  color: white;
 }
 
 .nav {
-  font-size: 18px;
   color: white;
-  font-weight: normal;
   background-image: url("https://s3.amazonaws.com/codecademy-content/programs/freelance-one/broadway/images/the-flatiron-building.png")
+}
+
+.nav h1 {
+  font-size: 70px; 
 }
 
 h2 {
